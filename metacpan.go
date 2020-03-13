@@ -14,8 +14,9 @@ const (
 
 // APIs
 const (
-	APISearchAutocomplete = "/v1/search/autocomplete"
-	APISearchDistribution = "/v1/distribution/_search"
+	APISearchAutocomplete        = "/v1/search/autocomplete"
+	APISearchAutocompleteSuggest = "/v1/search/autocomplete/suggest"
+	APISearchDistribution        = "/v1/distribution/_search"
 )
 
 func request(urlStr string) ([]byte, error) {
