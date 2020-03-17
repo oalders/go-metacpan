@@ -4,19 +4,19 @@ go-metacpan is library for go language to use metacpan API.
 
 ## Example
 
-See [example](https://github.com/handlename/go-metacpan/blob/master/example) directory.
+See [example](https://github.com/oalders/go-metacpan/blob/master/example) directory.
 
 ## Installation
 
 ```bash
-go get github.com/handlename/go-metacpan
+go get github.com/oalders/go-metacpan
 ```
 
 ## Usage
 
 ## Licence
 
-[MIT](https://github.com/handlename/go-metacpan/blob/master/LICENSE)
+[MIT](https://github.com/oalders/go-metacpan/blob/master/LICENSE)
 
 ## Author
 

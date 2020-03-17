@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/handlename/go-metacpan"
+	"github.com/oalders/go-metacpan"
 )
 
 func main() {
